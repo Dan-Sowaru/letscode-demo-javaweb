@@ -11,7 +11,7 @@
         <br/>
         <ul>
             <li>
-                <a href="/app/controlador?acao=criar-pessoas-form">Cadastrar pessoa</a>
+                <a href="/app/controlador?acao=cadastrar-pessoas-form">Cadastrar pessoa</a>
             </li>
             <li>
                 <a href="/app/controlador?acao=listar-pessoas">Listar pessoas</a>

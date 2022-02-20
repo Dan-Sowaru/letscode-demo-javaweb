@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BancoDeDados {
+
     private static List<Pessoa> pessoas = new ArrayList<>();
 
     public void salvar(Pessoa pessoa) {
